@@ -88,7 +88,7 @@ cd grafeno-tk
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE)
+© Grafeno+Tweaking . all rights reserved
 
 ## 📞 Contato
 
