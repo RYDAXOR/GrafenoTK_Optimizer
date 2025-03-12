@@ -21,9 +21,7 @@ GrafenoTK é uma ferramenta completa para monitoramento e otimização do seu si
 - **💪 Modo de desempenho** para jogos e aplicações intensivas
 
 ### 🔒 Privacidade e Segurança
-- **👁️‍🗨️ Controle de telemetria** e bloqueio de rastreadores
-- **🛡️ Verificação de segurança** básica
-- **🔐 Gerenciamento de permissões** de aplicativos
+- **👁️‍🗨️ Controle de telemetria** e bloqueio de rastreadores, entre outros
 
 ### 🛠️ Ferramentas Adicionais
 - **💤 Gestão de processos em segundo plano**
